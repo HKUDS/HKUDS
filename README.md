@@ -1,7 +1,7 @@
 <img align='right' src='lab_qrcode.jpg' width=20% />
 
 ### Hi there 👋
-Welcome to the <strong>HKU Data Intelligence Lab</strong>!
+Welcome to the <strong>Data Intelligence Lab @ HKU</strong>!
 
 We are a team of dedicated researchers who specialize Data Science at the University of Hong Kong. 
 
