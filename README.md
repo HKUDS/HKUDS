@@ -3,7 +3,7 @@
 ### Hi there 👋
 ✨Welcome to the <strong>Data Intelligence Lab @ HKU</strong>!✨
 
-🚀 Our Lab is Passionately Dedicated to Exploring the Forefront of the Data Science & AI!
+🚀 Our Lab is Passionately Dedicated to Exploring the Forefront of the Data Science & AI 👨‍💻
 
 <a href='https://sites.google.com/view/chaoh/'><img src='https://img.shields.io/badge/Home-Page-green' /></a>&nbsp;
 <a href='https://scholar.google.com/citations?user=Zkv9FqwAAAAJ&hl=en'><img src='https://img.shields.io/badge/Google-Scholar-blue' /></a>&nbsp;
